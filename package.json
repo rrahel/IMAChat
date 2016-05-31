@@ -1,0 +1,11 @@
+{
+	"name": "IMAChat",
+	"version": "1.0.0",
+	"decription": "This is the IMA web Chat",
+	"dependencies": {
+		"socket.io": "latest",
+		"express": "latest",
+		"jade": "latest"
+	}
+
+}

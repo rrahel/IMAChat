@@ -1,0 +1,8 @@
+.panel {    
+    position: absolute;
+    left: 45%;
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+}
+
